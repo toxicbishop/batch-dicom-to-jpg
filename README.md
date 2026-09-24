@@ -40,6 +40,11 @@ A fast, CPU-optimized batch converter designed to process thousands of medical D
      python -m venv .venv
      .\.venv\Scripts\Activate.ps1
      ```
+   - **Windows (Git Bash)**:
+     ```bash
+     python -m venv .venv
+     source .venv/Scripts/activate
+     ```
    - **Linux / macOS**:
      ```bash
      python3 -m venv .venv
