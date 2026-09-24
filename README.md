@@ -1,6 +1,6 @@
 # DCM to JPG Converter
 
-[![Python](https://img.shields.io/badge/Python-3.10%2B-blue.svg)](https://www.python.org/)
+[![Python](https://img.shields.io/badge/Python-3.12.x-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 [![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-lightgrey.svg)](#)
 [![Code Style](https://img.shields.io/badge/Code%20Style-PEP%208-orange.svg)](#)
@@ -22,7 +22,7 @@ A fast, CPU-optimized batch converter designed to process thousands of medical D
 
 ## Prerequisites
 
-- Python 3.10 or higher
+- Python 3.12 or higher
 - Windows, macOS, or Linux
 
 ---
