@@ -1,4 +1,4 @@
-# DCM to JPG Converter
+# Batch-dicom-to-jpg
 
 [![Python](https://img.shields.io/badge/Python-3.12.x-blue.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -102,7 +102,7 @@ python convert-dcm-to-jpg.py input.dcm output.jpg
 ## Directory Structure
 
 ```text
-DCM-toJPG/
+batch-dicom-to-jpg/
 |-- .venv/                     # Python virtual environment (ignored by git)
 |-- .vscode/                   # Editor configuration
 |   `-- settings.json
