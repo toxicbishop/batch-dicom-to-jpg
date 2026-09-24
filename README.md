@@ -104,6 +104,7 @@ DCM-toJPG/
 |-- convert-dcm-to-jpg.py      # Primary converter script
 |-- requirements.txt           # Project dependencies
 |-- .gitignore                 # Excluded directories and file patterns
+|-- LICENSE                    # MIT license file
 `-- README.md                  # Project documentation
 ```
 
@@ -111,4 +112,4 @@ DCM-toJPG/
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the [MIT License](LICENSE). See the [LICENSE](LICENSE) file for details.
