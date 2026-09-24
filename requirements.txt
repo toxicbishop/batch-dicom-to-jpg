@@ -1,0 +1,6 @@
+pydicom>=3.0.0
+numpy>=2.0.0
+pillow>=11.0.0
+pylibjpeg>=2.1.0
+pylibjpeg-libjpeg>=2.4.0
+pylibjpeg-openjpeg>=2.6.0

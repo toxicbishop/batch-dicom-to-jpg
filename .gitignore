@@ -1,0 +1,37 @@
+# Python virtual environment
+.venv/
+venv/
+env/
+ENV/
+
+# Byte-compiled / cache files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Large medical data directories and outputs
+original dcm/
+original-dcm/
+output-jpg/
+output_jpg/
+*.dcm
+*.ima
+*.dicom
+*.jpg
+*.jpeg
+
+# Logs
+*.log
+conversion-errors.log
+
+# Operating System files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE / Editor
+.idea/
+*.sublime-project
+*.sublime-workspace
